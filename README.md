@@ -1,1 +1,1 @@
-# Sorting_Algorithm-In-c-
+# Sorting_Algorithm
